@@ -1,7 +1,5 @@
 # Prune Neural Network
 
-## Pruning Neural Networks - README
-
 This project involves the process of pruning a neural network to reduce its size while maintaining performance. Follow these steps to successfully prune your neural network:
 
 1. **Define and Initialize Your Neural Network Model**: Create your neural network model using a deep learning framework such as PyTorch or TensorFlow. This model will be the basis for the subsequent pruning process.
